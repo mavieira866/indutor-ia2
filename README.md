@@ -1,8 +1,6 @@
-# indutor-ia2
+# Trabalho de Inteligência Artificial 2
 
-h1. Trabalho de Inteligência Artificial 2
-
-h2. Indutor de Árvore de Decisão
+Indutor de Árvore de Decisão
 
 Os argumentos que vão vir na linha de comando serão: 
 
